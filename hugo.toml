@@ -1,4 +1,4 @@
-baseURL = "test"
+baseURL = "/" # will update on CI with env variable
 languageCode = "en-us"
 title = "Archie"
 theme="archie"
