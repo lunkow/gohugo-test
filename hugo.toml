@@ -1,8 +1,8 @@
 baseURL = "/" # will update on CI with env variable
 languageCode = "en-us"
-title = "Archie"
+title = "@lunkow"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Lunkov"
 
 # Code Highlight
 pygmentsstyle = "monokai"
@@ -16,7 +16,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Hi! I'm **Anton Lunkov** and this is my blog about Web and related tecnologies."
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
@@ -25,12 +25,12 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/lunkow/hugo-blog/"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/athulcajay/"
+url = "https://twitter.com/lunkow/"
 
 [[params.social]]
 name = "GitLab"
