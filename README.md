@@ -48,5 +48,5 @@ Note: CSS files should be placed under the `assets` directory e.g. `assets/css/f
 
 - ~~Update Home Page content, social links~~
 - ~~Set Disqurs comments~~
-- Update Google Analytics
+- ~~Update Google Tag Manager~~
 - Update posts and remove old ones
