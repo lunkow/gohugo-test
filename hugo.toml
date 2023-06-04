@@ -9,7 +9,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourDisqusShortname"
+disqusShortname = "hugo-blog-4"
 
 paginate=3 # articles per page
 
